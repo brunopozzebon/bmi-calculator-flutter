@@ -1,23 +1,21 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # BMI Calculator 💪
 ![Covering](./preview.png)
 
-## Our Goal
+## About this project
 
 This project is made on the The App Brewery's Complete Flutter Development Bootcamp, the purpose here is totally educational,
 just build a Flutter app and learning a lot of features of this framework. 
 
-## What you will create
+## Links
 
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
+The project is inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator), and was made possible thanks to the teaching of Angela Yu, check his course on [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/) or search directly on her [website](https://www.appbrewery.co/)
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+## Install
+1. Download this course
+2. Download the dependencies of pubspec.yaml
+3. Check if you have a real device connected or any emulator
+4. 'flutter run' or start the aplication with your IDE
 
-## What you will learn
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
